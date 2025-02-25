@@ -19,3 +19,6 @@ This project applies time series forecasting to analyze and predict overseas vis
 ## Technologies Used:
 - **R** (`fpp3`, `ggplot2`, `tidyverse`, `forecast`)  
 - **Time Series Forecasting & Data Visualization**  
+
+## 📄 Full Report  
+For a detailed analysis, check out the **[Final Report](https://github.com/ChuyueCui/Time-Series-Forecasting-Tourism-Expenditure-of-Overseas-Visitors-in-Canada/blob/main/Reports/Final%20report%20Final%20Version%20.pdf)**.
