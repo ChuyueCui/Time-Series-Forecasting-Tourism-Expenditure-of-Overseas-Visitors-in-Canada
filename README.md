@@ -18,6 +18,5 @@ This project analyzes and forecasts international tourism expenditure in Canada 
 - Modeling Techniques: STL Decomposition, ETS, ARIMA  
 - Data Source: [Statistics Canada (Table 24-10-0047-01)](https://www150.statcan.gc.ca/n1/en/catalogue/24-10-0047-01)  
 
----
 📄 Full Report  
 For a detailed analysis, check out the **[Final Report](https://github.com/ChuyueCui/Time-Series-Forecasting-Tourism-Expenditure-of-Overseas-Visitors-in-Canada/blob/main/Reports/Final%20report%20Final%20Version%20.pdf)**.
